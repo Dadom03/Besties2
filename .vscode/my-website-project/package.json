@@ -1,0 +1,24 @@
+{
+    "name": "my-website-project",
+    "version": "1.0.0",
+    "description": "A simple website project with custom domain support.",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "live-server public",
+        "build": "echo 'Build process goes here'",
+        "test": "echo 'No tests specified'"
+    },
+    "keywords": [
+        "website",
+        "static",
+        "html",
+        "css",
+        "javascript"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    }
+}
